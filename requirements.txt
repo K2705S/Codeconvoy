@@ -1,0 +1,3 @@
+pyfiglet
+pyttsx3
+python-barcode
